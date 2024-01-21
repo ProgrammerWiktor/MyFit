@@ -1,0 +1,178 @@
+{
+  "ExerciseData": [
+    {
+      "key": 1,
+      "name": "Mięśnie brzucha",
+      "exercises": [
+        {
+          "key": 1,
+          "name": "Pajacyki",
+          "description": "Aerobowe ćwiczenie fizyczne angażujące różne grupy mięśniowe: mięśnie naramienne, pośladkowe, mięśnie przywodzące i odwodzące w stawie biodrowym, ręce, plecy, nogi. Stajemy w lekkim rozkroku, ręce są spuszczone wzdłuż tułowia, sylwetka wyprostowana, patrzymy przed siebie, łopatki są złączone. W tym samym czasie wykonujemy podskok z rozkrokiem bocznym nóg i uniesienie rąk nad głowę. Następnie powracamy do pozycji wyjściowej i całą czynność powtarzamy.",
+          "repetitionsOnEasy": 6,
+          "repetitionsOnMedium": 12,
+          "repetitionsOnHard": 20
+        },
+        {
+          "key": 2,
+          "name": "Brzuszki",
+          "description": "W ćwiczeniu brzuszków, ćwiczący leży na płaskiej powierzchni, preferencyjnie na macie do ćwiczeń. Nogi zgina się w kolanach, stopy umieszcza na podłożu, a kolana utrzymuje w linii z biodrami. Ręce składane są na klatce piersiowej, lekko za głową. Tułów unoszony jest ku górze w kierunku kolan, wykonywany ruch charakteryzuje się umiarkowaną kontrolą. Głowę i szyję utrzymuje się w jednej osi, a w fazie kulminacyjnej ćwiczenia, zachodzi skurcz mięśni brzucha, który jest utrzymywany przez krótką chwilę.",
+          "repetitionsOnEasy": 5,
+          "repetitionsOnMedium": 10,
+          "repetitionsOnHard": 20
+        },
+        {
+          "key": 3,
+          "name": "Mountain Climber",
+          "description": "W tym ćwiczeniu zaczynasz w pozycji plank, czyli leżysz na macie na wyciągniętych rękach i palcach nóg. Następnie, naprzemiennie przyciągasz kolana ku klatce piersiowej, symulując ruch wspinacza górskiego. Ruchy są dynamiczne, utrzymując pozycję plank. To ćwiczenie aktywuje mięśnie brzucha, nóg, ramion i poprawia wytrzymałość cardio.",
+          "repetitionsOnEasy": 10,
+          "repetitionsOnMedium": 20,
+          "repetitionsOnHard": 30
+        },
+        {
+          "key": 4,
+          "name": "Podnoszenie nóg",
+          "description": "W ćwiczeniu podnoszenia nóg z pozycji leżącej na plecach na macie, ręce układane są obok ciała. Nogi utrzymuje się prosto, unosząc je stopniowo ku górze, z zachowaniem kontrolowanego ruchu. W fazie górnej, utrzymuje się chwilę przed opuszczeniem nóg z powrotem w kierunku podłogi. ",
+          "repetitionsOnEasy": 3,
+          "repetitionsOnMedium": 6,
+          "repetitionsOnHard": 10
+        }
+      ]
+    },
+    {
+      "key": 2,
+      "name": "Klatka piersiowa",
+      "exercises": [
+        {
+          "key": 1,
+          "name": "Pajacyki",
+          "description": "Aerobowe ćwiczenie fizyczne angażujące różne grupy mięśniowe: mięśnie naramienne, pośladkowe, mięśnie przywodzące i odwodzące w stawie biodrowym, ręce, plecy, nogi. Stajemy w lekkim rozkroku, ręce są spuszczone wzdłuż tułowia, sylwetka wyprostowana, patrzymy przed siebie, łopatki są złączone. W tym samym czasie wykonujemy podskok z rozkrokiem bocznym nóg i uniesienie rąk nad głowę. Następnie powracamy do pozycji wyjściowej i całą czynność powtarzamy.",
+          "repetitionsOnEasy": 6,
+          "repetitionsOnMedium": 12,
+          "repetitionsOnHard": 20
+        },
+        {
+          "key": 2,
+          "name": "Pompki",
+          "description": "Ćwiczenie fizyczne wykonywane w pozycji poziomej, twarzą do ziemi, polegające na podnoszeniu i obniżaniu tułowia. Wykonywanie pompek rozwija mięśnie piersiowe i mięsień trójgłowy ramienia (pot. triceps), a także mięsień naramienny, mięsień zębaty przedni i mięsień kruczo-ramienny.",
+          "repetitionsOnEasy": 5,
+          "repetitionsOnMedium": 10,
+          "repetitionsOnHard": 20
+        },
+        {
+          "key": 3,
+          "name": "Triceps",
+          "description": "W tym ćwiczeniu zaczynasz od pozycji siedzącej na ławce lub krześle, rękoma opartymi z tyłu na krawędzi siedziska. Następnie, opuszczasz tułów ku dołowi, zginając łokcie, aż do momentu, gdy twój tułów zbliża się do podłoża. W fazie następnej, prostujesz ramiona, unosząc tułów z powrotem do pozycji wyjściowej.",
+          "repetitionsOnEasy": 4,
+          "repetitionsOnMedium": 8,
+          "repetitionsOnHard": 15
+        },
+        {
+          "key": 4,
+          "name": "Pompki na podwyższeniu",
+          "description": "W tym ćwiczeniu zaczynasz od pozycji, w której ręce spoczywają na podwyższeniu, na przykład na ławce czy klocku do ćwiczeń. Następnie, opuszczasz tułów ku dołowi, zginając ramiona, aż klatka piersiowa prawie dotyka podwyższenia. W fazie następnej, prostujesz ramiona, unosząc tułów do pozycji wyjściowej.",
+          "repetitionsOnEasy": 6,
+          "repetitionsOnMedium": 12,
+          "repetitionsOnHard": 22
+        }
+      ]
+    },
+    {
+      "key": 3,
+      "name": "Nogi",
+      "exercises": [
+        {
+          "key": 1,
+          "name": "Przysiady",
+          "description": "W ćwiczeniu przysiady zaczynasz, stojąc z nogami na szerokość bioder. Następnie, opuszczasz tułów, zginając kolana, aż biodra schodzą poniżej linii kolan. W fazie następnej, prostujesz nogi, wracając do pozycji wyjściowej. Przysiady angażują głównie mięśnie ud i pośladków, rozwijając siłę dolnej części ciała.",
+          "repetitionsOnEasy": 10,
+          "repetitionsOnMedium": 20,
+          "repetitionsOnHard": 30
+        },
+        {
+          "key": 2,
+          "name": "Wypad w tył",
+          "description": "W tym ćwiczeniu stajesz w pozycji wyjściowej, a następnie wykonujesz krok do tyłu jedną z nogą, zginając obie kolana podczas opadania. W fazie następnej, wracasz do pozycji wyjściowej poprzez wypchnięcie ciała za pomocą przedniej nogi.",
+          "repetitionsOnEasy": 5,
+          "repetitionsOnMedium": 10,
+          "repetitionsOnHard": 15
+        },
+        {
+          "key": 3,
+          "name": "Przyciąganie kolan",
+          "description": "W ćwiczeniu przyciągania kolan leżysz na plecach z wyprostowanymi nogami. Następnie, zginasz jedno kolano i przyciągasz je ku klatce piersiowej, jednocześnie unosząc głowę i górną część tułowia w kierunku zgiętej nogi. Po chwili utrzymywania napięcia wracasz do pozycji wyjściowej i wykonujesz to samo z drugą nogą.",
+          "repetitionsOnEasy": 10,
+          "repetitionsOnMedium": 15,
+          "repetitionsOnHard": 25
+        }
+      ]
+    },
+    {
+      "key": 4,
+      "name": "Barki i plecy",
+      "exercises": [
+        {
+          "key": 1,
+          "name": "Pajacyki",
+          "description": "Aerobowe ćwiczenie fizyczne angażujące różne grupy mięśniowe: mięśnie naramienne, pośladkowe, mięśnie przywodzące i odwodzące w stawie biodrowym, ręce, plecy, nogi. Stajemy w lekkim rozkroku, ręce są spuszczone wzdłuż tułowia, sylwetka wyprostowana, patrzymy przed siebie, łopatki są złączone. W tym samym czasie wykonujemy podskok z rozkrokiem bocznym nóg i uniesienie rąk nad głowę. Następnie powracamy do pozycji wyjściowej i całą czynność powtarzamy.",
+          "repetitionsOnEasy": 6,
+          "repetitionsOnMedium": 12,
+          "repetitionsOnHard": 20
+        },
+        {
+          "key": 2,
+          "name": "Unoszenie ramion",
+          "description": "W tym ćwiczeniu zaczynasz od pozycji stojącej lub siedzącej, z rękoma opuszczonymi swobodnie wzdłuż ciała. Następnie, unoszysz ramiona ku górze, utrzymując je prosto, aż do osiągnięcia poziomu równoległego z podłogą. W fazie następnej, opuszczasz ramiona z powrotem wzdłuż ciała.",
+          "repetitionsOnEasy": 10,
+          "repetitionsOnMedium": 15,
+          "repetitionsOnHard": 20
+        },
+        {
+          "key": 3,
+          "name": "Pompki na podwyższeniu",
+          "description": "W tym ćwiczeniu zaczynasz od pozycji, w której ręce spoczywają na podwyższeniu, na przykład na ławce czy klocku do ćwiczeń. Następnie, opuszczasz tułów ku dołowi, zginając ramiona, aż klatka piersiowa prawie dotyka podwyższenia. W fazie następnej, prostujesz ramiona, unosząc tułów do pozycji wyjściowej.",
+          "repetitionsOnEasy": 6,
+          "repetitionsOnMedium": 12,
+          "repetitionsOnHard": 22
+        },
+        {
+          "key": 4,
+          "name": "Hip hinge",
+          "description": "W ćwiczeniu hip hinge, zaczynasz w pozycji stojącej, stopy na szerokość bioder. Następnie, zginasz lekko w biodrach, zachowując proste plecy, a tułów nachylasz do przodu, unosząc jednocześnie górną część ciała i utrzymując lekkie zgięcie w kolanach.",
+          "repetitionsOnEasy": 3,
+          "repetitionsOnMedium": 6,
+          "repetitionsOnHard": 10
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "name": "Ramiona",
+      "exercises": [
+        {
+          "key": 1,
+          "name": "Ćwiczenia ciosów",
+          "description": "W tym ćwiczeniu przyjmujesz postawę bojową, stopy na szerokość bioder, lekko zgięte kolana, ciało skierowane do przodu. Ręce są uniesione do wysokości twarzy, gotowe do aktywności. Rozpoczynasz od dynamicznych i kontrolowanych prostych ciosów, wykonywanych naprzemiennie z obu rąk.",
+          "repetitionsOnEasy": 20,
+          "repetitionsOnMedium": 40,
+          "repetitionsOnHard": 60
+        },
+        {
+          "key": 2,
+          "name": "Pompki",
+          "description": "Ćwiczenie fizyczne wykonywane w pozycji poziomej, twarzą do ziemi, polegające na podnoszeniu i obniżaniu tułowia. Wykonywanie pompek rozwija mięśnie piersiowe i mięsień trójgłowy ramienia (pot. triceps), a także mięsień naramienny, mięsień zębaty przedni i mięsień kruczo-ramienny.",
+          "repetitionsOnEasy": 5,
+          "repetitionsOnMedium": 10,
+          "repetitionsOnHard": 20
+        },
+        {
+          "key": 3,
+          "name": "Wstawanie z podporu",
+          "description": "Stań prosto z rękami wzdłuż ciała. Trzymając nogi prosto, odchyl biodra tak, aby dłonie dotykały podłogi przed sobą. Pamiętaj, aby nie przesuwać stóp z ich pierwotnej pozycji. Używając rąk jak stóp, idź powoli do przodu, idąc tak daleko, jak tylko możesz. Odwróć ruch, aż dłonie dotkną palców u nóg i powtórz.",
+          "repetitionsOnEasy": 5,
+          "repetitionsOnMedium": 10,
+          "repetitionsOnHard": 15
+        }
+      ]
+    }
+  ]
+}
